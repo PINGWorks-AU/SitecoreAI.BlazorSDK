@@ -1,4 +1,4 @@
-<img src="assets/dotBRIDGE-logo.png" alt="dotBRIDGE" width="32" align="left" valign="baseline" style="margin-right:1rem" />
+<img src="assets/dotBRIDGE-logo.png" alt="dotBRIDGE" width="60" align="left" />
 
 # dotBRIDGE - SitecoreAI Blazor SDK
 
